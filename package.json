@@ -1,0 +1,25 @@
+{
+  "name": "restapiapp",
+  "version": "1.0.0",
+  "description": "RestApi app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adityacahya/apprestapi.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "node",
+    "js"
+  ],
+  "author": "Aditya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adityacahya/apprestapi/issues"
+  },
+  "homepage": "https://github.com/adityacahya/apprestapi#readme"
+}
